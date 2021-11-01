@@ -25,20 +25,29 @@ function generateMarkdown(data) {
 
 ### Installation
   ${data.installation}
+
 ### Usage
   ${data.usage}
+
 ### License
 ${licenseSection}
+
 ### Contributing 
 ${data.contribution}
+
 ### Tests
 ${data.tests}
+
 ### Questions
 ${data.question}
-Any questions you can contact ${data.name} here:
+
+Any questions you can reach out to:
+
 Email: [${data.email}](mailto:${data.email})
+
 ### Contact
 [GitHub](https://github.com/${data.github})
+
 [LinkedIn](https://www.linkedin.com/in/${data.linkedin}-ab45a619a/)
 `;
 }

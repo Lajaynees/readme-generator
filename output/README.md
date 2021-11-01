@@ -1,6 +1,6 @@
-# s
+# Professional README
 ### Description
-  s
+  command line app
 #### Table of Contents
  - [Description](#description)
  - [Installation](#installation)
@@ -11,19 +11,28 @@
  - [Questions](#questions)
 
 ### Installation
-  s
+  npm 
+
 ### Usage
-  s
+  create a readme
+
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ### Contributing 
-s
+Lj
+
 ### Tests
-s
+yes
+
 ### Questions
-s
-Any questions you can contact undefined here:
-Email: [s](mailto:s)
+no
+
+Any questions you can reach out to:
+
+Email: [lscingram@yahoo.com](mailto:lscingram@yahoo.com)
+
 ### Contact
-[GitHub](https://github.com/s)
-[LinkedIn](https://www.linkedin.com/in/s-ab45a619a/)
+[GitHub](https://github.com/Lajaynees)
+
+[LinkedIn](https://www.linkedin.com/in/Lajaynees-ab45a619a/)

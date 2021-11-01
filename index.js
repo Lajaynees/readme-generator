@@ -70,7 +70,7 @@ function init() {
 console.log (answers)
 const data = generateMarkdown(answers)
 console.log(data)
-fs.writeFile('./dist/README.md', data, function(err){
+fs.writeFile('./output/README.md', data, function(err){
     if(err) throw err
     console.log("Readme written");
 })

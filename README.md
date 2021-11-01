@@ -33,7 +33,7 @@ run node index.js
 See Walkthrough below:
 
 ### Questions
-Any questions you can contact undefined here:
+Any questions you can reach out to:
 Email: [lscingram@yahoo.com](mailto:lscingram@yahoo.com)
 
 ### Contact
