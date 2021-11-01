@@ -22,7 +22,7 @@ function generateMarkdown(data) {
  - [Contribution](#Contribution)
  - [Tests](#Tests)
  - [Questions](#Questions)
- - [Contact](#Contact)
+
 ### Installation
   ${data.installation}
 ### Usage
