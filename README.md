@@ -1,6 +1,9 @@
-# s
+# Professional README Generator
+
 ### Description
-  s
+  A command-line application that generates a README.md
+ from a user's input. The user will then be prompted with questions about the project
+
 #### Table of Contents
  - [Description](#description)
  - [Installation](#installation)
@@ -11,19 +14,28 @@
  - [Questions](#questions)
 
 ### Installation
-  s
-### Usage
-  s
-### License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-### Contributing 
+  npm init- npm install inquirer
 
+### Usage
+  The user  is prompt to answer question and  once the questionn
+aire is completed, a readme file will be generated
+
+### License
+
+[![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
+### Contributing 
+The author of this project is Lajaynees Ingram 
 ### Tests
+run node index.js
+See Walkthrough below:
 
 ### Questions
-s
 Any questions you can contact undefined here:
-Email: [s](mailto:s)
+Email: [s](mailto:lscingram@yahoo.com)
+
 ### Contact
 [GitHub](https://github.com/s)
 [LinkedIn](https://www.linkedin.com/in/s-ab45a619a/)
