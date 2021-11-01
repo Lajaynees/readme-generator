@@ -36,7 +36,7 @@ const questions = [
     },
     {
         type: 'input',
-        message:'Do you have any questions?',
+        message:'Do you have any question?',
         name: 'question'
     },
     {
