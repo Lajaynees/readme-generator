@@ -31,6 +31,7 @@ The author of this project is Lajaynees Ingram
 ### Tests
 run node index.js
 See Walkthrough below:
+https://watch.screencastify.com/v/Jsj5jN6zDm3a90qCoYeu
 
 ### Questions
 Any questions you can reach out to:
