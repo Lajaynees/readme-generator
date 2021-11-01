@@ -32,6 +32,7 @@ The author of this project is Lajaynees Ingram
 run node index.js
 See Walkthrough below:
 https://watch.screencastify.com/v/Jsj5jN6zDm3a90qCoYeu
+![Video](README VIDEO WALKTHROUGH.mp4)
 
 ### Questions
 Any questions you can reach out to:
