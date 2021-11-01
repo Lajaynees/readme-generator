@@ -72,7 +72,7 @@ const data = generateMarkdown(answers)
 console.log(data)
 fs.writeFile('./output/README.md', data, function(err){
     if(err) throw err
-    console.log("Readme written");
+    console.log("Readme COMPLETE!");
 })
     }).catch(function(err){
         console.log (err)

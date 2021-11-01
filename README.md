@@ -37,5 +37,5 @@ Any questions you can reach out to:
 Email: [lscingram@yahoo.com](mailto:lscingram@yahoo.com)
 
 ### Contact
-[GitHub](https://github.com/s)
+[GitHub](https://github.com/LajayneesI)
 [LinkedIn](https://www.linkedin.com/in/s-ab45a619a/)

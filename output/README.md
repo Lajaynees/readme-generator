@@ -1,6 +1,6 @@
-# Professional README
+# Professional README Generator
 ### Description
-  command line app
+  A command-line application that creates a README.md and prompts user with a questionare.
 #### Table of Contents
  - [Description](#description)
  - [Installation](#installation)
@@ -11,28 +11,28 @@
  - [Questions](#questions)
 
 ### Installation
-  npm 
+    Invoke node index.js in the command-line to begin
 
 ### Usage
-  create a readme
+    Answer the prompted questions
 
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Contributing 
-Lj
+LJ
 
 ### Tests
-yes
+YES
 
 ### Questions
-no
+NO
 
 Any questions you can reach out to:
 
 Email: [lscingram@yahoo.com](mailto:lscingram@yahoo.com)
 
 ### Contact
-[GitHub](https://github.com/Lajaynees)
+[GitHub](https://github.com/https://github.com/Lajaynees)
 
-[LinkedIn](https://www.linkedin.com/in/Lajaynees-ab45a619a/)
+[LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/lajaynees-carter-ingram-05a269150/-ab45a619a/)
