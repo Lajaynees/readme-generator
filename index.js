@@ -2,6 +2,7 @@ const generateMarkdown =require('./utils/generateMarkdown')
 const inquirer =require('inquirer')
 const fs =require('fs')
 
+
 const questions = [
     {
         type: 'input',
@@ -13,6 +14,12 @@ const questions = [
         name: 'description',
         message: 'What is the description of your project?',
     },
+    {
+        type: 'input',
+        name: 'installation',
+        message: 'How do you install the application?',
+    },
+    
     {
         type: 'input',
         message:'How do you use the application?',
@@ -36,8 +43,13 @@ const questions = [
     },
     {
         type: 'input',
-        message:'Do you have any question?',
+        message:'Do you have any questions?',
         name: 'question'
+    },
+    {
+        type: 'input',
+        message:'What is your email?',
+        name: 'email'
     },
     {
         type: 'input',
@@ -58,7 +70,10 @@ function init() {
 console.log (answers)
 const data = generateMarkdown(answers)
 console.log(data)
-writeToFile('README.md', data)
+fs.writeFile('README.md', data, function(err){
+    if(err) throw err
+    console.log("Readme written");
+})
     }).catch(function(err){
         console.log (err)
     })
