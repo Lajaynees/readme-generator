@@ -34,7 +34,7 @@ See Walkthrough below:
 
 ### Questions
 Any questions you can contact undefined here:
-Email: [s](mailto:lscingram@yahoo.com)
+Email: [lscingram@yahoo.com](mailto:lscingram@yahoo.com)
 
 ### Contact
 [GitHub](https://github.com/s)
